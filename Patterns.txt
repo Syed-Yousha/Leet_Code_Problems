@@ -1,0 +1,59 @@
+While new variations appear occasionally, this list covers the comprehensive set of patterns and algorithmic techniques required to solve virtually any problem on LeetCode, from "Easy" to "Hard."
+
+1. **Sliding Window** (Fixed-size and Variable-size)
+2. **Two Pointers** (Converging, Opposite ends, or Same direction)
+3. **Fast & Slow Pointers** (Hare & Tortoise / Cycle Detection)
+4. **Merge Intervals**
+5. **Cyclic Sort**
+6. **In-place Reversal of a Linked List**
+7. **Breadth-First Search (BFS)** (Tree and Graph traversal)
+8. **Depth-First Search (DFS)** (Tree and Graph traversal)
+9. **Two Heaps** (Pattern for "Find Median" problems)
+10. **Subsets / Power Set** (Generating combinations)
+11. **Modified Binary Search** (Searching in rotated or nearly sorted arrays)
+12. **Top 'K' Elements** (Using Min-Heap or Max-Heap)
+13. **K-way Merge** (Merging multiple sorted streams)
+14. **Topological Sort** (Kahn’s Algorithm for DAGs)
+15. **Bitwise XOR / Bit Manipulation**
+16. **Monotonic Stack** (Finding the next greater/smaller element)
+17. **Monotonic Queue** (Finding the maximum in a sliding window)
+18. **Backtracking** (Decision trees, Permutations, and Combinations)
+19. **Dynamic Programming (DP)** (Memoization and Tabulation)
+20. **Bitmask DP** (DP using bitmasking for state representation)
+21. **State Machine DP**
+22. **Greedy Algorithms**
+23. **Trie (Prefix Tree)**
+24. **Union Find (Disjoint Set Union - DSU)**
+25. **Prefix Sum / Cumulative Sum**
+26. **Suffix Sum**
+27. **Difference Array** (Range update pattern)
+28. **Matrix Traversal** (Island problems, Flood Fill)
+29. **Dijkstra’s Algorithm** (Shortest path in weighted graphs)
+30. **Bellman-Ford Algorithm** (Shortest path with negative weights)
+31. **Floyd-Warshall Algorithm** (All-pairs shortest path)
+32. **Prim’s Algorithm** (Minimum Spanning Tree)
+33. **Kruskal’s Algorithm** (Minimum Spanning Tree)
+34. **Line Sweep Algorithm** (Interval/Geometry problems)
+35. **Segment Tree** (Range queries and updates)
+36. **Binary Indexed Tree (Fenwick Tree)**
+37. **Binary Lifting** (Finding Lowest Common Ancestor - LCA)
+38. **Kadane’s Algorithm** (Maximum Subarray)
+39. **Boyer-Moore Voting Algorithm** (Majority Element)
+40. **Divide and Conquer**
+41. **Reservoir Sampling** (Random sampling from a stream)
+42. **Rejection Sampling**
+43. **Rolling Hash (Rabin-Karp)** (String searching)
+44. **Knuth-Morris-Pratt (KMP) / Z-Algorithm** (String matching)
+45. **Manacher’s Algorithm** (Finding the longest palindromic substring)
+46. **Binary Search on Answer** (Optimization problems using monotonicity)
+47. **Meet-in-the-Middle** (Optimization for exponential complexity)
+48. **Square Root Decomposition**
+49. **Euler Tour of a Tree**
+50. **Heavy-Light Decomposition**
+51. **Centroid Decomposition**
+52. **Sparse Table** (Range Minimum Query - RMQ)
+53. **Tarjan’s / Kosaraju’s Algorithm** (Strongly Connected Components)
+54. **Max Flow (Ford-Fulkerson / Edmonds-Karp)**
+55. **Geometry / Convex Hull** (Graham Scan / Monotone Chain)
+56. **Fast Fourier Transform (FFT)** (Extremely rare, but occasionally relevant for polynomial math)
+
